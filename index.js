@@ -12,8 +12,8 @@ const quizData = [
   },
   {
     question:
-      "Which CSS property is used to control the spacing between elements?",
-    options: ["margin", "spacing", "border-spacing", "padding"],
+      "What does the z-index property in CSS control?",
+    options: ["The opacity of an element", "The stacking order of positioned elements", "The font size of text within an element", "The margin spacing of an element"],
     correct: 1,
   },
   {
