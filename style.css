@@ -127,7 +127,7 @@ button {
     justify-content: center;
     align-items: center;
   }
-  .question {
+  .question, h1 {
     font-size: 25px !important;
     float: left;
   }
